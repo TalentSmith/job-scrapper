@@ -1,0 +1,7 @@
+pandas
+numpy
+beautifulsoup4
+requests
+selenium
+mysql-connector-python
+python-dotenv
