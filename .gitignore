@@ -2,3 +2,4 @@ venv/
 database/
 .venv
 .env
+company_data.csv
